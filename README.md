@@ -26,10 +26,10 @@ https://ieeexplore-ieee-org.ezproxy.uta.edu/stamp/stamp.jsp?tp=&arnumber=8203652
 - [x] Data collection: (0 -weeks)
 Large movie review: http://ai.stanford.edu/~amaas/data/sentiment/ (Links to an external site.)
 
-- [ ] Prepare the input data: (2-3-weeks)
+- [x] Prepare the input data: (2-3-weeks)
 We will go through the movie review dataset and get the rating, review, polarity of review as a pre requisite to create the dataset as per our required input for model. We will remove certain stop words because they are considered sentiment neutral. Also perform a few preliminary processes like tokenization, Parts of speech recognition, Lemmatization, etc.        
 
-- [ ] Analyse the input data: (1 - week)
+- [x] Analyse the input data: (1 - week)
 We will analyse the dataset by getting a word frequency count, to limit our vocabulary to certain amount of words and understand the grammar involved in the reviews.
 
 - [ ] Training an algorithm: (2-3 weeks)
