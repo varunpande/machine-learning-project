@@ -32,8 +32,8 @@ We will go through the movie review dataset and get the rating, review, polarity
 - [x] Analyse the input data: (1 - week)
 We will analyse the dataset by getting a word frequency count, to limit our vocabulary to certain amount of words and understand the grammar involved in the reviews.
 
-- [ ] Training an algorithm: (2-3 weeks)
+- [x] Training an algorithm: (2-3 weeks)
 Most of our time will be invested in the cleaning process of the dataset, but a considerable time will be spent on training the model in order to get the maximum efficiency.
 
-- [ ] Evaluate the algorithm: (1 week)
+- [x] Evaluate the algorithm: (1 week)
 Based on the above process and time limitation, if we have enough time, we might compare our trained model with the ones that, we might come across while finding ways to implement our model.
