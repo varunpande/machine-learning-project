@@ -18,8 +18,8 @@ https://shravan-kuchkula.github.io/scrape_imdb_movie_reviews/#construct-a-datafr
 
 DATA PRE-PROCESSING
 
-•	Since the dataset has missing reviews for rating 5 and 6, I am working on retrieving those data from IMDB website using BeautifulSoup and IMDB API. This task is in progress.
-•	Steps involved in cleaning the data: [Libraries used: nltk and pandas]
+1. Since the dataset has missing reviews for rating 5 and 6, I am working on retrieving those data from IMDB website using BeautifulSoup and IMDB API. This task is in progress.
+2. Steps involved in cleaning the data: [Libraries used: nltk and pandas]
 	o	Removing HTML tags like <br> using regex from the reviews
 	o	Removing words with numbers
 	o	Sentence tokenization for generating proper bigrams for negation features like “not good”
